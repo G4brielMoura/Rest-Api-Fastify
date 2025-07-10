@@ -83,7 +83,12 @@ Crie um arquivo `.env` na raiz do projeto:
 ### 1. Rota de saúde (Health Check)
 GET http://localhost:3333/health
 
-=> Resposta esperada: (Resposta esperada:`"Rodando Corretamente!"`)
+=> Resposta esperada: (Resposta esperada:`"Você pode utilizá-la como base para criar rotas REST com validações seguras, conectar a bancos de dados, integrar com seu front-end (React, Next.js, etc.), ou expandir com autenticação e lógica de negócio."`)
+
+---
+
+> ℹ️ Essa API não está hospedada na Vercel porque a plataforma não suporta servidores Node.js ativos por padrão.  
+> Para rodar a API, use `npm run dev` localmente ou acesse a versão hospedada em: https://rest-api-fastify.vercel.app/
 
 ---
 
