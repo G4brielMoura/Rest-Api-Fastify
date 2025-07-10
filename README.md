@@ -45,9 +45,9 @@ Essa aplicação foi criada como um **boilerplate profissional** para backends e
 
 ## 🚀 Tecnologias Utilizadas
 
-| Tecnologia                  | Descrição                                                                 |
+| Tecnologia                 | Descrição                                                                |
 |----------------------------|---------------------------------------------------------------------------|
-| **Fastify**                | Framework leve e rápido para APIs HTTP                                     |
+| **Fastify**                | Framework leve e rápido para APIs HTTP                                    |
 | **TypeScript**             | Tipagem estática moderna para JavaScript                                  |
 | **Zod**                    | Validação e inferência de tipos                                           |
 | **Ultracite**              | Executor de TypeScript direto no Node.js (sem transpilar)                 |
@@ -59,7 +59,7 @@ Essa aplicação foi criada como um **boilerplate profissional** para backends e
 ## ⚙️ Como Executar
 
 ### 1. Clone o repositório
-`git clone https://github.com/seu-usuario/nome-do-repo.git` =>
+`git clone https://github.com/G4brielMoura/Rest-Api-Fastify.git` =>
 `cd nome-do-repo`
 
 ### 2. Instale as dependências
@@ -191,13 +191,13 @@ Gabriel Moura
 Estudante de Ciência da Computação, apaixonado por desenvolvimento web moderno com foco em JavaScript, TypeScript e o ecossistema Front-End.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/gabriel-moura-dev/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabrielmouradev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/G4brielMoura" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.instagram.com/gabrielmoura_dev/" target="_blank">
+  <a href="https://www.instagram.com/gabrielmouradev/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
